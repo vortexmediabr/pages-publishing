@@ -1056,6 +1056,11 @@ th {
     border-top: 1px solid #aaa;
 }
 
+.td-index-structure{
+  font:12px RobotoLight, Sans-serif !important;
+  color: #4d4d4d !important;
+}
+
 .th-index{
   font:12px RobotoMono-Bold, Sans-serif !important;
   color: #333333 !important;
