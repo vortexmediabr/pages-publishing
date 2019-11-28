@@ -3,6 +3,12 @@ body{
   background-size: 12px 12px;*/
   font-family: "Roboto", sans-serif;
 }
+
+@font-face {
+     font-family: SilvaDisplayExtBd2-Regular;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/SilvaDisplayExtBd2-Regular.ttf');
+}
+
 .form-control::-moz-placeholder{
    color: #DDDDDD;
    opacity: 1;
@@ -713,6 +719,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .logo {
   margin-left: 2rem;
   margin-right: 2rem;
+  font:44px SilvaDisplayExtBd2-Regular, Arial, Tahoma, Sans-serif;
 }
   
 .main .logo.cursive{
