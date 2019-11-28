@@ -9,6 +9,39 @@ body{
      src: url('https://vortexmediabr.github.io/pages-publishing/fonts/SilvaDisplayExtBd2-Regular.ttf');
 }
 
+@font-face {
+     font-family: SilvaDisplay8-Regular;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/SilvaDisplay8-Regular.ttf');
+}
+@font-face {
+     font-family: SilvaDisplay6-Regular;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/SilvaDisplay6-Regular.ttf');
+}
+@font-face {
+     font-family: RobotoMono-Regular;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/RobotoMono-Regular.ttf');
+}
+@font-face {
+     font-family: RobotoMono-Light;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/RobotoMono-Light.ttf');
+}
+@font-face {
+     font-family: RobotoMono-Bold;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/RobotoMono-Bold.ttf');
+}
+@font-face {
+     font-family: RobotoMedium;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/RobotoMedium.ttf');
+}
+@font-face {
+     font-family: RobotoLight;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/RobotoLight.ttf');
+}
+@font-face {
+     font-family: Roboto.ttf;
+     src: url('https://vortexmediabr.github.io/pages-publishing/fonts/Roboto.ttf');
+}
+
 .form-control::-moz-placeholder{
    color: #DDDDDD;
    opacity: 1;
