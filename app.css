@@ -1108,6 +1108,7 @@ table a:visited {
 #search-all-fts-text{
   margin-top:2em !important;
   font:12px RobotoMono-Regular, Sans-serif;
+  text-decoration-color: #333;
   width: 45vw !important;
 }
 
