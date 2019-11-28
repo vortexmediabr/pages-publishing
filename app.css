@@ -789,7 +789,6 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 .image {
   position:absolute;
   left: 10vw;
-  top: 18px;
   height: 3vh;
   opacity: 1;
 }
