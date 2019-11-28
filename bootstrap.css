@@ -305,8 +305,6 @@ html {
 }
 
 body {
-  font-family: "Roboto", sans-serif;
-  font-size: 14px;
   line-height: 1.428571429;
   color: #241f21;
   background-color: #ffffff;
@@ -530,7 +528,7 @@ h6 .small {
   font-size: 75%;
 }
 
-h1,
+/*h1,
 .h1 {
   font-size: 36px;
 }
@@ -559,7 +557,7 @@ h6,
 .h6 {
   font-size: 12px;
 }
-
+*/
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
