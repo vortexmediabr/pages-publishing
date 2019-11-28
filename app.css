@@ -746,10 +746,10 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 
 .image {
   position:absolute;
-  right: 0;
-  top: 0;
-  height: 40vh;
-  opacity: 0.3;
+  left: 10vw;
+  top: 1vw;
+  height: 3vh;
+  opacity: 1;
   pointer-events: none;
   z-index: -1;
 }
