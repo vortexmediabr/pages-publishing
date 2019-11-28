@@ -1048,6 +1048,7 @@ th {
     padding: 4px;
     padding-right: 1em;
     border-top: 1px solid #aaa;
+    font:12px RobotoMono-Bold, Sans-serif;
 }
 
 table a:link {
