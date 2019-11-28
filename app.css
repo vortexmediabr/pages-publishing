@@ -1058,6 +1058,16 @@ th {
   color: #4d4d4d !important;
 }
 
+.td-index-content{
+  font:12px SilvaDisplay6-Regular, Sans-serif !important;
+  color: #333333 !important;
+}
+
+.td-index-update{
+  font:12px RobotoLight, Sans-serif !important;
+  color: #333333 !important;
+}
+
 .th-index{
   font:12px RobotoMono-Bold, Sans-serif !important;
   color: #333333 !important;
