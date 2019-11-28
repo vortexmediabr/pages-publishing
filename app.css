@@ -1021,11 +1021,11 @@ thead {
   color: #ADBC30;
 }
 
-tr:nth-child(even) {
+.tr-color:nth-child(even) {
   background: #e8e8e8 !important;
 }
 
-tr:nth-child(odd) {
+.tr-color:nth-child(odd) {
   background: #fff !important;
 }
 
