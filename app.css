@@ -1049,7 +1049,7 @@ th {
     padding-right: 1em;
     border-top: 1px solid #aaa;
     font:12px RobotoMono-Bold, Sans-serif;
-    text-decoration-color: #333;
+    text-decoration-color: #333333 !important;
 }
 
 table a:link {
@@ -1109,7 +1109,7 @@ table a:visited {
 #search-all-fts-text{
   margin-top:2em !important;
   font:12px RobotoMono-Regular, Sans-serif;
-  text-decoration-color: #333;
+  text-decoration-color: #333333 !important;
   width: 45vw !important;
 }
 
