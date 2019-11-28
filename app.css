@@ -1074,7 +1074,7 @@ table a:visited {
     }
 /*}*/
 
-table, td, th {
+.table-border {
   border: 1px solid black;
 }
 
