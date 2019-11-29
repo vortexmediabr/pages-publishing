@@ -1073,6 +1073,11 @@ th {
   color: #333333 !important;
 }
 
+.database-title{
+  font:40px RobotoMono-Bold, Sans-serif !important;
+  color: #000000 !important;
+}
+
 table a:link {
     text-decoration: none;
     color: #241f21;
