@@ -934,6 +934,7 @@ form input[type=submit] {
     line-height: 1;
     border-radius: 0.5rem;
     -webkit-appearance: button;
+    margin-left: 10px;
 }
 
 form input[type=submit]:hover {
