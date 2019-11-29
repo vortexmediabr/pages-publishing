@@ -871,7 +871,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 form.sql textarea {
     border: 1px solid #ccc;
     width: 40% !important;
-    height: 1.7em !important;
+    height: 3.3em !important;
     padding: 4px;
     border-radius: 0.2rem;
 }
@@ -935,7 +935,6 @@ form input[type=submit] {
     line-height: 1;
     border-radius: 0.2rem;
     -webkit-appearance: button;
-    margin-left: 10px;
 }
 
 form input[type=submit]:hover {
@@ -1182,6 +1181,8 @@ table a:visited {
   background-color: #000 !important;
   color: #fff !important;
   border: 0px solid transparent !important;
+  height: 4rem !important;
+  margin-left: 10px;
 }
 
 .table-size{
