@@ -1152,6 +1152,11 @@ table a:visited {
   border: 1px solid black;
 }
 
+.sql-button {
+  background-color: #000 !important;
+  color: #fff !important;
+}
+
 .table-size{
   overflow-x: auto !important;
   max-height: 80vh !important;
