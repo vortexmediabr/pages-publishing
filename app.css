@@ -1265,3 +1265,8 @@ table a:visited {
   font:16px RobotoMedium, Sans-serif !important;
   color: #adbd30 !important;
 }
+
+.footer-csv-options{
+  font:16px RobotoMedium, Sans-serif !important;
+  color: #000000 !important;
+}
