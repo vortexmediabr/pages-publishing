@@ -1013,8 +1013,8 @@ input[type="submit"] {
 }
 
 thead {
-  background-color: #FFF;
-  color: #ADBC30;
+  background-color: #FFF !important;
+  color: #ADBC30 !important;
 }
 
 .tr-color:nth-child(even) {
