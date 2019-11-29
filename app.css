@@ -1205,7 +1205,12 @@ table a:visited {
   color: #000000 !important;
 }
 
-.query-sql {
+.query-sql-title {
   font:12px RobotoMono-Regular, Sans-serif;
   color: #333333 !important;
+}
+
+.query-sql {
+    font: 14px RobotoMono-Regular, Sans-serif;
+    color: #333333 !important;
 }
