@@ -873,6 +873,7 @@ form.sql textarea {
     width: 40%;
     height: 1.7em;
     padding: 4px;
+    border-radius: 0.5rem;
 }
 
 @media only screen and (max-width: 576px) {
