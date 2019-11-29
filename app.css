@@ -1199,3 +1199,8 @@ table a:visited {
   font:14px RobotoMono-Regular, Sans-serif;
   color: #333333 !important;
 }
+
+.query-title{
+  font:40px RobotoMono-Bold, Sans-serif !important;
+  color: #000000 !important;
+}
