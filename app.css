@@ -1083,6 +1083,11 @@ th {
   color: #4d4d4d !important;
 }
 
+.database-consult {
+  font:12px RobotoMono-Regular, Sans-serif;
+  color: #333333 !important;
+}
+
 table a:link {
     text-decoration: none;
     color: #241f21;
