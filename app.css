@@ -1255,3 +1255,8 @@ table a:visited {
   font:16px RobotoMono-Regular, Sans-serif;
   color: #000000 !important;
 }
+
+.footer-csv-json{
+  font:22px RobotoMono-Bold, Sans-serif !important;
+  color: #000000 !important;
+}
