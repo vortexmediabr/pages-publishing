@@ -1250,3 +1250,8 @@ table a:visited {
   font:30px SilvaDisplay8-Regular, Sans-serif !important;
   color: #000000 !important;
 }
+
+.footer-options {
+  font:16px RobotoMono-Regular, Sans-serif;
+  color: #000000 !important;
+}
