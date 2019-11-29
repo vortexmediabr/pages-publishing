@@ -870,10 +870,9 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 
 form.sql textarea {
     border: 1px solid #ccc;
-    width: 70%;
-    height: 3em;
+    width: 40%;
+    height: 2em;
     padding: 4px;
-    font-size: 1em;
 }
 
 @media only screen and (max-width: 576px) {
