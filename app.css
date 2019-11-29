@@ -1175,6 +1175,9 @@ table a:visited {
 
 .table, td, th {
   border: 1px solid black;
+  font-family: 14px Roboto, Sans-serif;
+  line-height: 1.428571429;
+  color: #241f21;
 }
 
 .sql-button {
