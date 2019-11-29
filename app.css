@@ -1226,3 +1226,8 @@ table a:visited {
   font:40px RobotoMono-Bold, Sans-serif !important;
   color: #000000 !important;
 }
+
+.table-lines {
+    font: 14px Roboto, Sans-serif;
+    color: #000000 !important;
+}
