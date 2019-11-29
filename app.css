@@ -893,6 +893,7 @@ pre.wrapped-sql {
     line-height: 1.5;
     color: #212529;
     border: 1px solid black;
+    padding: 10px 10px 10px 10px;
 }
 
 .advanced-export input[type=submit] {
