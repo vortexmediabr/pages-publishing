@@ -38,7 +38,7 @@ body{
      src: url('https://vortexmediabr.github.io/pages-publishing/fonts/RobotoLight.ttf');
 }
 @font-face {
-     font-family: Roboto.ttf;
+     font-family: Roboto;
      src: url('https://vortexmediabr.github.io/pages-publishing/fonts/Roboto.ttf');
 }
 
@@ -1039,8 +1039,13 @@ td {
   color: #333333 !important;
 }
 
-.td-database-name {
-  font:15px RobotoMono-Bold, Sans-serif !important;
+.td-database-variables {
+  font:14px Roboto, Sans-serif !important;
+  color: #000000 !important;
+}
+
+.td-database-lines {
+  font:12px RobotoLight, Sans-serif !important;
   color: #333333 !important;
 }
 
@@ -1080,6 +1085,11 @@ th {
 
 .th-index{
   font:12px RobotoMono-Bold, Sans-serif !important;
+  color: #333333 !important;
+}
+
+.td-database-name{
+  font:18px RobotoMono-Bold, Sans-serif !important;
   color: #333333 !important;
 }
 
