@@ -1241,3 +1241,8 @@ table a:visited {
     font: 14px Roboto, Sans-serif;
     color: #000000 !important;
 }
+
+.table-advanced-export{
+  font:30px SilvaDisplay8-Regular, Sans-serif !important;
+  color: #000000 !important;
+}
