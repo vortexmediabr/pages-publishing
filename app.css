@@ -1236,3 +1236,8 @@ table a:visited {
   font:12px RobotoMono-Regular, Sans-serif;
   color: #333333 !important;
 }
+
+.table-export {
+    font: 14px Roboto, Sans-serif;
+    color: #000000 !important;
+}
