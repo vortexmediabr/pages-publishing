@@ -1188,3 +1188,8 @@ table a:visited {
   overflow-x: auto !important;
   max-height: 80vh !important;
 }
+
+.database-footer {
+  font:14px RobotoMono-Regular, Sans-serif;
+  color: #333333 !important;
+}
