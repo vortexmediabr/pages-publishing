@@ -1213,3 +1213,8 @@ table a:visited {
     font: 14px RobotoMono-Regular, Sans-serif;
     color: #333333 !important;
 }
+
+.query-export {
+    font: 14px Roboto, Sans-serif;
+    color: #000000 !important;
+}
