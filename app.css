@@ -1104,8 +1104,8 @@ th {
 }
 
 .database-description{
-  font:20px Roboto, Sans-serif !important;
-  color: #4d4d4d !important;
+    font:15px RobotoMono-Regular, Sans-serif !important;
+    color: #333333 !important;
 }
 
 .database-consult {
