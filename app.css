@@ -1260,3 +1260,8 @@ table a:visited {
   font:22px RobotoMono-Bold, Sans-serif !important;
   color: #000000 !important;
 }
+
+.footer-json-options{
+  font:16px RobotoMedium, Sans-serif !important;
+  color: #adbd30 !important;
+}
