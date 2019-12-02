@@ -1631,6 +1631,7 @@ th {
 .table > thead > tr > th {
   vertical-align: bottom;
   border-bottom: 1px solid #000000;
+  border-top: 1px solid black !important;
 }
 
 .table > caption + thead > tr:first-child > th,
