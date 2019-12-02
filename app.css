@@ -902,7 +902,7 @@ pre.wrapped-sql {
 }
 
 form input[type=text] {
-    border: 1px solid #ccc;
+    border: 1px solid #black;
     border-radius: 3px;
     width: 30vw;
     padding: 9px 4px;
@@ -913,7 +913,7 @@ form input[type=text] {
 }
 
 form input[type=search] {
-    border: 1px solid #ccc;
+    border: 1px solid black;
     border-radius: 0.3rem;
     width: 30vw;
     padding: 9px 4px;
@@ -989,7 +989,7 @@ input[type="submit"] {
 .select-wrapper select {
     padding: 9px 8px;
     width: 100%;
-    border: none;
+    border: 1px solid black;
     box-shadow: none;
     background: transparent;
     background-image: none;
