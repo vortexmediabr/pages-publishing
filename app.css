@@ -871,7 +871,7 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 form.sql textarea {
     border: 1px solid #ccc;
     width: 40% !important;
-    height: 2.8em !important;
+    height: 3.3em !important;
     padding: 4px;
     border-radius: 0.2rem;
 }
