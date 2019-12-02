@@ -1278,3 +1278,7 @@ table a:visited {
   color: #333333 !important;
   margin: 0 0 4px !important;
 }
+
+.filter-value {
+  margin-top: 0px !important;
+}
