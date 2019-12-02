@@ -1196,7 +1196,7 @@ table a:visited {
   max-height: 80vh !important;
   width: fit-content !important;
   overflow-y: auto !important;
-  max-width: 80vw !important;
+  max-width: 100% !important;
 }
 
 .database-footer {
