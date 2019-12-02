@@ -1282,3 +1282,16 @@ table a:visited {
 .filter-value {
   margin-top: 0px !important;
 }
+
+::placeholder {
+  color: #333333;
+  opacity: 1;
+}
+
+:-ms-input-placeholder {
+ color: #333333;
+}
+
+::-ms-input-placeholder {
+ color: #333333;
+}
