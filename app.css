@@ -1210,7 +1210,7 @@ table a:visited {
 }
 
 .query-sql-title {
-  font:20px RobotoMono-Regular, Sans-serif;
+  font:12px RobotoMono-Regular, Sans-serif;
   color: #333333 !important;
 }
 
@@ -1230,7 +1230,7 @@ table a:visited {
 }
 
 .table-lines {
-    font: 14px Roboto, Sans-serif;
+    font: 20px Roboto, Sans-serif;
     color: #000000 !important;
 }
 
