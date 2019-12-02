@@ -1190,8 +1190,13 @@ table a:visited {
 }
 
 .table-size{
+  /*overflow-x: auto !important;
+  max-height: 80vh !important;*/
   overflow-x: auto !important;
   max-height: 80vh !important;
+  width: fit-content !important;
+  overflow-y: auto !important;
+  max-width: 86vw !important;
 }
 
 .database-footer {
