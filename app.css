@@ -914,7 +914,7 @@ form input[type=text] {
 
 form input[type=search] {
     border: 1px solid black;
-    border-radius: 4.8px !important;
+    /*border-radius: 4.8px !important;*/
     width: 30vw;
     padding: 9px 4px;
     display: inline-block;
