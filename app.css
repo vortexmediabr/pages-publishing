@@ -902,7 +902,7 @@ pre.wrapped-sql {
 }
 
 form input[type=text] {
-    border: 1px solid #black;
+    border: 1px solid black;
     border-radius: 3px;
     width: 30vw;
     padding: 9px 4px;
