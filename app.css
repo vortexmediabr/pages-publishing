@@ -1028,7 +1028,7 @@ thead {
 }
 
 td {
-    border-top: 1px solid #aaa;
+    /*border-top: 1px solid #aaa;*/
     border-right: 1px solid #eee;
     padding: 4px;
     vertical-align: top;
@@ -1176,7 +1176,7 @@ table a:visited {
 }
 
 .table, td, th {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   font-family: Roboto, Sans-serif;
   font-size: 12px;
   line-height: 1.428571429;
