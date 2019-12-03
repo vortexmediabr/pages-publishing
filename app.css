@@ -1301,3 +1301,14 @@ table a:visited {
 ::-ms-input-placeholder {
  color: #333333;
 }
+
+.img-index {
+    vertical-align: middle;
+    position: absolute;
+    right: 44px;
+    top: 66px;
+    height: 50vh;
+    opacity: 1;
+    pointer-events: none;
+    z-index: -1; 
+}
