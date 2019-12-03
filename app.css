@@ -1341,7 +1341,7 @@ table a:visited {
        /* height: 48vh; */
        position: absolute;
        display: block;
-       right: 20vw;
+       right: 25vw;
        top: 7vh;
        opacity: 1;
        pointer-events: none;
