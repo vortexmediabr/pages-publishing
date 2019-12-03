@@ -851,10 +851,25 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     color: #FF3B30;
 }
 
-.bases {
+/*.bases {
     margin-left: 4rem;
     margin-right: 4rem;
     word-wrap: break-word;
+}*/
+
+@media screen and (max-width: 1024px) {
+.bases {
+    width: 100%;
+    word-wrap: break-word;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+.site-wrapper {
+    margin-left: 16rem;
+    margin-right: 16rem;
+    word-wrap: break-word;
+  }
 }
 
 .crumbs {
