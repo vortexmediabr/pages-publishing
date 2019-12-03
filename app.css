@@ -1302,7 +1302,7 @@ table a:visited {
  color: #333333;
 }
 
-@media (max-width: 1200px) {
+@media (min-width: 1200px) {
    .img-index {
        /* height: 48vh; */
        position: absolute;
@@ -1319,7 +1319,7 @@ table a:visited {
   }
 }
 
-@media (min-width: 1199px) {
+@media (max-width: 1199px) {
    .img-index {
        /* height: 48vh; */
        position: absolute;
