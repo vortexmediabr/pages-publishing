@@ -1302,7 +1302,7 @@ table a:visited {
  color: #333333;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .img-index {
       /* height: 48vh; */
       position: absolute;
