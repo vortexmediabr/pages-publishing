@@ -1302,7 +1302,6 @@ table a:visited {
  color: #333333;
 }
 
-@media (max-width: 768px) {
   .img-index {
       /* height: 48vh; */
       position: absolute;
@@ -1315,21 +1314,4 @@ table a:visited {
       margin-left: auto;
       margin-right: auto;
       width: 263px;
-  }
-}
-
-@media (min-width: 1300px) {
-  .img-index {
-      /* height: 48vh; */
-      position: absolute;
-      display: block;
-      right: 17vw;
-      top: 7vh;
-      opacity: 1;
-      pointer-events: none;
-      z-index: -1;
-      margin-left: auto;
-      margin-right: auto;
-      width: 263px;
-  }
 }
