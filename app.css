@@ -1303,11 +1303,10 @@ table a:visited {
 }
 
 .img-index {
-    vertical-align: middle;
     position: absolute;
-    right: 44px;
-    top: 66px;
-    height: 50vh;
+    right: 11vw;
+    top: 7vh;
+    height: 35vh;
     opacity: 1;
     pointer-events: none;
     z-index: -1; 
