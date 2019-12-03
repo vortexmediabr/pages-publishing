@@ -1304,9 +1304,9 @@ table a:visited {
 
 .img-index {
     position: absolute;
-    right: 11vw;
+    right: 14vw;
     top: 7vh;
-    height: 35vh;
+    height: 30vh;
     opacity: 1;
     pointer-events: none;
     z-index: -1; 
