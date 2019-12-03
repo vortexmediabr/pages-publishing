@@ -1352,3 +1352,20 @@ table a:visited {
        width: auto;
   }
 }
+
+@media (max-width: 576px) {
+   .img-index {
+       /* height: 48vh; */
+       position: absolute;
+       display: block;
+       right: 24vw;
+       top: 7vh;
+       opacity: 1;
+       pointer-events: none;
+       z-index: -1;
+       margin-left: auto;
+       margin-right: auto;
+       max-width: 263px;
+       width: auto;
+  }
+}
