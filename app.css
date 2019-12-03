@@ -859,13 +859,14 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
 
 @media screen and (max-width: 1024px) {
 .bases {
-    width: 100%;
+    margin-left: 4rem;
+    margin-right: 4rem;
     word-wrap: break-word;
   }
 }
 
 @media screen and (min-width: 1025px) {
-.site-wrapper {
+.bases {
     margin-left: 16rem;
     margin-right: 16rem;
     word-wrap: break-word;
