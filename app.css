@@ -1306,12 +1306,12 @@ table a:visited {
     /* height: 48vh; */
     position: absolute;
     display: block;
-    right: 15vw;
-    top: 10vh;
+    right: 17vw;
+    top: 7vh;
     opacity: 1;
     pointer-events: none;
     z-index: -1;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 28%;
 }
