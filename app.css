@@ -1082,8 +1082,10 @@ th {
 }
 
 .td-index-structure{
-  font:12px RobotoLight, Sans-serif !important;
+  font:14px RobotoLight, Sans-serif !important;
   color: #4d4d4d !important;
+  font-weight: bold !important;
+  text-align: center !important;
 }
 
 .td-index-content{
@@ -1421,4 +1423,5 @@ table a:visited {
 
 .td-index-structure a {
   color: #adbd30 !important;
+  text-align: center !important;
 }
