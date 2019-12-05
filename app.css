@@ -1087,8 +1087,9 @@ th {
 }
 
 .td-index-content{
-  font:12px SilvaDisplay6-Regular, Sans-serif !important;
+  font:18px SilvaDisplay6-Regular, Sans-serif !important;
   color: #333333 !important;
+  text-lign: center !important;
 }
 
 .td-database-content{
@@ -1097,7 +1098,7 @@ th {
 }
 
 .td-index-update{
-  font:12px RobotoLight, Sans-serif !important;
+  font:14px RobotoLight, Sans-serif !important;
   color: #333333 !important;
   text-align: center !important;
 }
