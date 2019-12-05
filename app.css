@@ -1090,8 +1090,6 @@ th {
 
 .td-index-content{
   font:18px SilvaDisplay6-Regular, Sans-serif !important;
-  color: #adbd30 !important;
-  text-align: center !important;
 }
 
 .td-database-content{
@@ -1422,6 +1420,11 @@ table a:visited {
 }
 
 .td-index-structure a {
+  color: #adbd30 !important;
+  text-align: center !important;
+}
+
+.td-index-content a {
   color: #adbd30 !important;
   text-align: center !important;
 }
